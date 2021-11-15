@@ -16,7 +16,7 @@ Authentication successful.
 ```
 
 # Preparing the Application
-In this tutorial I will deploy an existing project, [Django Blog](https://github.com/Owiti-Charles/django_blog)
+In this tutorial I will deploy an existing project, [Django Blog](https://github.com/TheCaffeine/D-blog-.git)
 
 ## You must
 * Have asics of django concept ie apps, settings, urls, basics of databases eg  
